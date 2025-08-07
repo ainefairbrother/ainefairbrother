@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-<td width="43%" align="left">
+<td width="10%" align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainefairbrother&theme=transparent&layout=compact&langs_count=6&hide=html,javascript" width="100%" height="auto" />
 </td>
